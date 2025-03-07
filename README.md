@@ -231,13 +231,4 @@ src/
    - Update Maven dependencies
    - Check Java version compatibility
 
-## Support
 
-For any issues or questions:
-1. Check the application logs
-2. Review the Swagger documentation
-3. Contact the development team
-
-## License
-
-This project is licensed under the MIT License. 
